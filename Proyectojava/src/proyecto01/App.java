@@ -8,7 +8,7 @@ public class App {
 
 		System.out.println("Introduce tu nombre");
 		String result = leerStringPorConsola();
-		System.out.println("hola, "+result);
+		System.out.println("HOLA, "+result.toUpperCase());
 	}
 
 	
